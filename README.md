@@ -44,4 +44,4 @@ Estas são as tecnologias utilizadas neste projeto.
 - siga o github!
 - conect-se ao linkedin!
 - copie e altere o projeto como desejar!
-- caso queira contribua través do pix ![](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png
+- caso queira contribua través do pix ![](https://github.com/lealrenato/loginanimadofrontend1/blob/main/assets/pix.jpeg)
