@@ -1,5 +1,47 @@
-<h1 align="center">Login animado</h1>
 
-><p align="center"></p>
+## Longin animado
+Este é um projeto Fontend de um login com animação para estudos pessoais, 
 
-<img src="https://img.shields.io/static/v1?label=furico&message=framework&color=blue&style=for-the-badge&logo=html"/>
+
+## Technologia
+
+Estas são as tecnologias utilizadas neste projeto.
+
+* HTML5
+* CSS
+
+## Serviços
+
+* Github
+
+## Como usar
+
+### 1 - clone o repositório ou baixe como achar melhor 
+
+### 2 - abra o aquivo index.html num navegador de sua preferência, ou rode em um server de sua preferência
+
+
+
+![Exemplo](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
+
+
+## Links
+  - Repository: https://github.com/lealrenato/loginanimadofrontend1
+  - Linkedin: https://www.linkedin.com/in/rennatto-leal/
+
+  ## Versão
+
+  22.12.20
+
+
+  ## Autores
+
+  * **Renato Leal** 
+
+
+##  Gostou deste Projeto?
+
+- siga o github!
+- conect-se ao linkedin!
+- copie e altere o projeto como desejar!
+- caso queira contribua través do pix ![](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png
