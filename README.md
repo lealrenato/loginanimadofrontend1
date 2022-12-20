@@ -22,7 +22,7 @@ Estas são as tecnologias utilizadas neste projeto.
 
 
 
-![Exemplo](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
+![Exemplo](https://github.com/lealrenato/loginanimadofrontend1/blob/main/assets/loginanimado.gif)
 
 
 ## Links
