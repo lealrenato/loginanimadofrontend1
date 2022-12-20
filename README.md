@@ -23,6 +23,8 @@ Estas são as tecnologias utilizadas neste projeto.
 
 
 ![Exemplo](https://github.com/lealrenato/loginanimadofrontend1/blob/main/assets/loginanimado.gif)
+https://youtu.be/QrGH70YRvtQ
+
 
 
 ## Links
