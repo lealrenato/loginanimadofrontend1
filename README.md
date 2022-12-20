@@ -44,4 +44,5 @@ Estas são as tecnologias utilizadas neste projeto.
 - siga o github!
 - conect-se ao linkedin!
 - copie e altere o projeto como desejar!
-- caso queira contribua través do pix ![](https://github.com/lealrenato/loginanimadofrontend1/blob/main/assets/pix.jpeg)
+- caso queira contribua través do pix:
+<img src="https://github.com/lealrenato/loginanimadofrontend1/blob/main/assets/pix.jpeg" height="150" width="150">
